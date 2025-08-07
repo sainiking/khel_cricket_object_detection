@@ -103,15 +103,6 @@ python3 simple_cricket_detector.py
 3. **Advanced Dataset** → `train_separate_models.py` → **Dual Specialized Models**
 4. **Dual Models** → `simple_cricket_detector.py` → **Configurable Advanced Detection**
 
-## Key Features
-- **Dual-Model Architecture**: Separate cricket objects and ball models prevent conflicts
-- **Class Weightage System**: Configure detection importance (Ball: 2.5x, Batting Pads: 0.6x)
-- **Class-Specific Confidence**: Individual sensitivity thresholds per class
-- **Enhanced Ball Detection**: Specialized model with tracking and temporal consistency
-- **Visual Customization**: Configurable colors, fonts, and anti-overlap label positioning
-- **Interactive Configuration**: Real-time adjustment of weights and confidence
-- **Professional Output**: Weighted detections with configuration logs
-- **Conflict Prevention**: 100% elimination of class index conflicts
 
 ## Project Structure
 ```
@@ -125,37 +116,6 @@ khel/
 │   └── ball_model/                  # Ball detection model (1 class)
 └── your_videos.mp4                  # Cricket videos to test
 ```
-
-## Advanced Configuration Examples
-
-### High Ball Priority (Ball Tracking Focus):
-```python
-detector.set_class_weights({'Ball': 3.0, 'Batting Pads': 0.5})
-detector.set_class_confidence({'Ball': 0.25, 'Stumps Mic': 0.7})
-```
-
-### Broadcasting Setup (Key Players Focus):
-```python
-detector.set_class_weights({
-    'Ball': 2.5, 'Batter': 2.0, 'Wicket Keeper': 1.8,
-    'Bowler': 1.6, 'Batting Pads': 0.6
-})
-```
-
-### Training Analysis (Balanced Detection):
-```python
-detector.set_class_weights({class: 1.0 for class in all_classes})
-```
-
-## Why This Advanced Approach?
-- **Specialized**: Dual models prevent class conflicts and optimize performance
-- **Configurable**: Class weightage and confidence control for any use case
-- **Enhanced Ball Detection**: Dedicated model with tracking provides superior accuracy
-- **Professional**: Anti-overlap labels, visual customization, comprehensive logging
-- **Flexible**: Easy adjustment of detection priorities without retraining
-- **Robust**: Conflict-free architecture eliminates class index issues
-- **Educational**: Advanced computer vision concepts with practical implementation
-- **Production-Ready**: Professional code architecture with error handling
 
 ## Technical Details
 - **Architecture**: Dual YOLOv8 models (cricket objects + ball detection)
