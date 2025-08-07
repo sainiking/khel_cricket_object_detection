@@ -654,21 +654,6 @@ python3 simple_cricket_detector.py      # 7. Run advanced detection with configu
 
 ---
 
-## **Tips for Best Results**
-
-1. **GPU Usage**: Ensure CUDA is available for faster training
-2. **Video Quality**: Use clear, well-lit cricket videos
-3. **Annotation Quality**: Ensure accurate bounding boxes for all 13 classes in Roboflow
-4. **Class Balance**: Try to have similar numbers of each class annotated
-5. **Testing**: Try configuration menu first to set optimal weights and confidence
-6. **Model Verification**: Use `check_separate_models.py` to verify both models
-7. **Enhanced Ball Detection**: Specialized model provides superior ball tracking
-8. **Priority Configuration**: Adjust class weights based on your detection priorities
-9. **Confidence Tuning**: Use class-specific confidence for optimal sensitivity
-10. **Visual Settings**: Customize colors and fonts for better video presentation
-11. **Ball Annotation**: Ensure ball is well-annotated for training the specialized model
-12. **Configuration Testing**: Test different weight/confidence combinations for best results
-
 ## **Advanced Configuration Guide**
 
 ### **Class Weightage Recommendations:**
@@ -688,4 +673,3 @@ python3 simple_cricket_detector.py      # 7. Run advanced detection with configu
 - **Font Scale**: 0.5-0.8 for readability without clutter
 - **Anti-overlap**: Always enable for clean display
 
-This advanced execution guide ensures optimal results from the sophisticated dual-model cricket detection system with full configuration control!

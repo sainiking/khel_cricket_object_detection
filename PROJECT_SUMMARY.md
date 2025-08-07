@@ -93,26 +93,6 @@ python3 simple_cricket_detector.py
 - Anti-overlap label positioning
 - Interactive configuration menu
 
-## What Makes This Project Advanced
-
-###  Sophisticated Architecture
-- **Dual-Model System**: Separate cricket objects and ball detection models
-- **Conflict Prevention**: No class index conflicts between models
-- **Enhanced Ball Detection**: Specialized model with tracking and filtering
-- **Configuration Control**: Class weightage and confidence threshold systems
-
-###  Advanced Detection Features
-- **Class Weightage**: Configurable importance scaling (0.5x to 3.0x)
-- **Class-Specific Confidence**: Individual sensitivity thresholds per class
-- **Visual Customization**: Per-class colors, fonts, and label positioning
-- **Anti-Overlap Labels**: Smart positioning prevents label collisions
-- **Enhanced Ball Tracking**: Standard + tracked modes with temporal consistency
-
-###  User-Friendly Configuration
-- **Interactive Setup**: Configuration menu for weights and confidence
-- **Easy Customization**: Simple methods for colors, fonts, and priorities
-- **Real-time Adjustment**: Configure during detection process
-- **Professional Output**: Weighted detections with configuration logs
 
 ## Detection Capabilities
 Your advanced system detects **13 classes** with configurable priorities:
@@ -177,32 +157,6 @@ Your advanced system detects **13 classes** with configurable priorities:
 - **Configuration Options**: 10+ customizable parameters
 - **Code Architecture**: ~800 lines with advanced features
 
-## What Makes This Setup Special
-
-###  Advanced Dual-Model Architecture
-- Started with unified dataset, intelligently split for specialized training
-- Separate models eliminate class index conflicts
-- Enhanced ball detection with dedicated small-object optimization
-- Professional-grade conflict prevention and performance optimization
-
-###  Sophisticated Configuration System
-- Class weightage system for detection importance control
-- Class-specific confidence thresholds for sensitivity tuning
-- Visual customization with anti-overlap label positioning
-- Interactive configuration menu for real-time adjustments
-
-###  Professional-Grade Features
-- Enhanced ball tracking with temporal consistency
-- Smart filtering based on object size and shape validation
-- Weighted detection scoring for priority-based results
-- Comprehensive logging with configuration details
-
-### Educational and Professional Value
-- Advanced computer vision architecture patterns
-- Configuration-driven detection system design
-- Professional code organization with feature separation
-- Industry-standard dual-model implementation
-
 ## Next Steps - Ready for Advanced Detection!
 
 ### 1. Train Dual Specialized Models (3.2 minutes)
@@ -250,21 +204,3 @@ detector.set_class_weights({
 detector.set_class_weights({class: 1.0 for class in all_classes})
 detector.set_class_confidence({class: 0.4 for class in all_classes})
 ```
-
-## Pro Tips for Advanced Success
-- **Environment**: Always activate with `source activate_cricket_env.sh`
-- **Dual Training**: Both models will automatically use GTX 1660 Ti optimization
-- **Configuration**: Start with default settings, then fine-tune for your needs
-- **Ball Detection**: Specialized model provides superior tracking compared to general models
-- **Priority Tuning**: Adjust class weights based on your specific use case
-- **Visual Settings**: Customize colors and fonts for professional presentation
-- **Testing Strategy**: Use sample video first, then configure for optimal results
-- **Live Demo**: Enhanced ball tracking makes for impressive real-time demonstrations
-- **Analysis**: Check advanced detection logs for detailed performance insights
-- **Optimization**: Use class-specific confidence to balance sensitivity vs accuracy
-
----
-
-**Your advanced cricket detection system is now ready for professional deployment!**
-
-From intelligent dataset splitting to configurable dual-model detection - everything is optimized for maximum performance and user control!
