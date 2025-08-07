@@ -1,0 +1,126 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+cricket_env/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model Files and Training Outputs
+cricket_runs/
+runs/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.trt
+weights/
+checkpoints/
+hybrid_cricket_model*/
+
+# Dataset and Media Files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+roboflow_dataset/
+extracted_frames*/
+frames/
+videos/
+images/
+annotations/
+
+# Training and Cache Files
+wandb/
+.wandb/
+*.cache
+*.log
+labels.jpg
+confusion_matrix.png
+results.png
+PR_curve.png
+F1_curve.png
+
+# System Files
+.env
+.envrc
+*.pid
+*.seed
+*.pid.lock
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+*.temp
+.cache/
+
+# Documentation Build
+docs/_build/
+docs/build/
+site/
+
+# Coverage Reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Cricket Project Specific
+cricket_training/
+first_version.py

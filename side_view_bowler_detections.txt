@@ -1,0 +1,1975 @@
+ Separate Cricket Detection Results
+==================================================
+
+ Summary:
+   Total Frames: 325
+   Total Detections: 1308
+   Cricket Objects: 1304
+   Ball Detections: 4
+   Frames with Detections: 325
+   Detection Rate: 100.0%
+
+ Detection Models:
+   Cricket Objects: Custom trained model
+   Ball Detection: General YOLO model
+
+ Detailed Detections:
+------------------------------
+Frame 1 (0.0s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.40 (cricket_object)
+
+Frame 2 (0.0s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.35 (cricket_object)
+
+Frame 3 (0.1s):
+  - (Helmet): 0.65 (cricket_object)
+  - Bowler: 0.75 (cricket_object)
+
+Frame 4 (0.1s):
+  - (Helmet): 0.66 (cricket_object)
+  - Bowler: 0.89 (cricket_object)
+
+Frame 5 (0.1s):
+  - (Helmet): 0.69 (cricket_object)
+  - Bowler: 0.92 (cricket_object)
+  - Non-Striker: 0.32 (cricket_object)
+
+Frame 6 (0.1s):
+  - (Helmet): 0.68 (cricket_object)
+  - Bowler: 0.99 (cricket_object)
+  - Non-Striker: 0.61 (cricket_object)
+
+Frame 7 (0.1s):
+  - (Helmet): 0.65 (cricket_object)
+  - Bowler: 0.99 (cricket_object)
+  - (Fielder): 0.50 (cricket_object)
+  - Non-Striker: 0.57 (cricket_object)
+
+Frame 8 (0.2s):
+  - (Helmet): 0.69 (cricket_object)
+  - (Fielder): 0.50 (cricket_object)
+  - Bowler: 0.84 (cricket_object)
+  - Non-Striker: 0.55 (cricket_object)
+
+Frame 9 (0.2s):
+  - (Helmet): 0.68 (cricket_object)
+  - Bowler: 0.92 (cricket_object)
+  - Non-Striker: 0.57 (cricket_object)
+
+Frame 10 (0.2s):
+  - (Helmet): 0.68 (cricket_object)
+  - Bowler: 0.83 (cricket_object)
+  - Non-Striker: 0.42 (cricket_object)
+
+Frame 11 (0.2s):
+  - (Helmet): 0.67 (cricket_object)
+  - Bowler: 0.96 (cricket_object)
+  - Non-Striker: 0.63 (cricket_object)
+
+Frame 12 (0.2s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.73 (cricket_object)
+  - Bowler: 0.61 (cricket_object)
+
+Frame 13 (0.3s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.70 (cricket_object)
+  - Stumps: 0.40 (cricket_object)
+
+Frame 14 (0.3s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.60 (cricket_object)
+  - Stumps: 0.55 (cricket_object)
+  - Stumps: 0.46 (cricket_object)
+
+Frame 15 (0.3s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.52 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+
+Frame 16 (0.3s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.67 (cricket_object)
+  - Stumps: 0.58 (cricket_object)
+  - Stumps: 0.37 (cricket_object)
+
+Frame 17 (0.3s):
+  - (Helmet): 0.65 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+  - Non-Striker: 0.44 (cricket_object)
+
+Frame 18 (0.4s):
+  - (Helmet): 0.68 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+  - Non-Striker: 0.49 (cricket_object)
+
+Frame 19 (0.4s):
+  - (Helmet): 0.68 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+  - Non-Striker: 0.43 (cricket_object)
+  - Stumps: 0.35 (cricket_object)
+
+Frame 20 (0.4s):
+  - (Helmet): 0.66 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+  - Stumps: 0.35 (cricket_object)
+
+Frame 21 (0.4s):
+  - (Helmet): 0.63 (cricket_object)
+  - Stumps: 0.66 (cricket_object)
+  - Stumps: 0.37 (cricket_object)
+
+Frame 22 (0.4s):
+  - (Helmet): 0.68 (cricket_object)
+  - Stumps: 0.67 (cricket_object)
+  - Non-Striker: 0.38 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 23 (0.5s):
+  - (Helmet): 0.66 (cricket_object)
+  - Stumps: 0.67 (cricket_object)
+  - Bowler: 0.71 (cricket_object)
+  - Stumps: 0.37 (cricket_object)
+
+Frame 24 (0.5s):
+  - (Helmet): 0.62 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Stumps: 0.69 (cricket_object)
+  - Bowler: 0.73 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 25 (0.5s):
+  - (Helmet): 0.60 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Stumps: 0.66 (cricket_object)
+  - Bowler: 0.72 (cricket_object)
+  - Stumps: 0.35 (cricket_object)
+
+Frame 26 (0.5s):
+  - (Helmet): 0.67 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Stumps: 0.68 (cricket_object)
+
+Frame 27 (0.5s):
+  - (Helmet): 0.67 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 28 (0.6s):
+  - (Helmet): 0.66 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+
+Frame 29 (0.6s):
+  - (Helmet): 0.67 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Stumps: 0.60 (cricket_object)
+  - Non-Striker: 0.40 (cricket_object)
+
+Frame 30 (0.6s):
+  - (Helmet): 0.69 (cricket_object)
+  - Non-Striker: 0.52 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+
+Frame 31 (0.6s):
+  - (Helmet): 0.68 (cricket_object)
+  - Bowler: 0.99 (cricket_object)
+  - Non-Striker: 0.52 (cricket_object)
+  - Stumps: 0.56 (cricket_object)
+
+Frame 32 (0.6s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.66 (cricket_object)
+  - Bowler: 0.85 (cricket_object)
+  - Stumps: 0.50 (cricket_object)
+
+Frame 33 (0.7s):
+  - (Helmet): 0.64 (cricket_object)
+  - (Fielder): 0.51 (cricket_object)
+  - Non-Striker: 0.53 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+
+Frame 34 (0.7s):
+  - (Helmet): 0.65 (cricket_object)
+  - Wicket Keeper: 0.80 (cricket_object)
+  - (Fielder): 0.52 (cricket_object)
+  - Bowler: 0.66 (cricket_object)
+  - Stumps: 0.58 (cricket_object)
+  - Non-Striker: 0.46 (cricket_object)
+
+Frame 35 (0.7s):
+  - (Helmet): 0.66 (cricket_object)
+  - Bowler: 0.92 (cricket_object)
+  - Non-Striker: 0.63 (cricket_object)
+  - Stumps: 0.58 (cricket_object)
+
+Frame 36 (0.7s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.71 (cricket_object)
+  - Bowler: 0.71 (cricket_object)
+  - Stumps: 0.58 (cricket_object)
+
+Frame 37 (0.7s):
+  - (Helmet): 0.60 (cricket_object)
+  - Non-Striker: 0.76 (cricket_object)
+  - Stumps: 0.53 (cricket_object)
+  - Stumps: 0.35 (cricket_object)
+
+Frame 38 (0.8s):
+  - (Helmet): 0.65 (cricket_object)
+  - Non-Striker: 0.77 (cricket_object)
+  - Stumps: 0.54 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 39 (0.8s):
+  - (Helmet): 0.63 (cricket_object)
+  - Non-Striker: 0.71 (cricket_object)
+  - Stumps: 0.56 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 40 (0.8s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.60 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+
+Frame 41 (0.8s):
+  - (Helmet): 0.63 (cricket_object)
+  - Non-Striker: 0.62 (cricket_object)
+  - Stumps: 0.51 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 42 (0.8s):
+  - (Helmet): 0.69 (cricket_object)
+  - Non-Striker: 0.59 (cricket_object)
+  - Stumps: 0.52 (cricket_object)
+
+Frame 43 (0.9s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.46 (cricket_object)
+  - Stumps: 0.49 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 44 (0.9s):
+  - (Helmet): 0.62 (cricket_object)
+  - Non-Striker: 0.50 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+
+Frame 45 (0.9s):
+  - (Helmet): 0.62 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+  - Non-Striker: 0.43 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 46 (0.9s):
+  - (Helmet): 0.69 (cricket_object)
+  - Non-Striker: 0.66 (cricket_object)
+  - Stumps: 0.63 (cricket_object)
+
+Frame 47 (0.9s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.70 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 48 (1.0s):
+  - (Helmet): 0.65 (cricket_object)
+  - (Fielder): 0.54 (cricket_object)
+  - Non-Striker: 0.68 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+
+Frame 49 (1.0s):
+  - (Helmet): 0.69 (cricket_object)
+  - (Fielder): 0.53 (cricket_object)
+  - Non-Striker: 0.71 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+
+Frame 50 (1.0s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.75 (cricket_object)
+  - Stumps: 0.65 (cricket_object)
+
+Frame 51 (1.0s):
+  - (Helmet): 0.63 (cricket_object)
+  - Non-Striker: 0.79 (cricket_object)
+  - Stumps: 0.54 (cricket_object)
+  - Boundary Line: 0.36 (cricket_object)
+  - Stumps: 0.37 (cricket_object)
+
+Frame 52 (1.0s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.71 (cricket_object)
+  - Stumps: 0.56 (cricket_object)
+  - Boundary Line: 0.39 (cricket_object)
+  - Stumps: 0.38 (cricket_object)
+
+Frame 53 (1.1s):
+  - (Helmet): 0.69 (cricket_object)
+  - Non-Striker: 0.58 (cricket_object)
+  - Bowler: 0.71 (cricket_object)
+  - Boundary Line: 0.39 (cricket_object)
+  - Stumps: 0.52 (cricket_object)
+  - Stumps: 0.37 (cricket_object)
+
+Frame 54 (1.1s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.68 (cricket_object)
+  - Boundary Line: 0.43 (cricket_object)
+  - Stumps: 0.55 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 55 (1.1s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.63 (cricket_object)
+  - Boundary Line: 0.43 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 56 (1.1s):
+  - (Helmet): 0.69 (cricket_object)
+  - Non-Striker: 0.73 (cricket_object)
+  - Boundary Line: 0.43 (cricket_object)
+  - Stumps: 0.56 (cricket_object)
+  - Stumps: 0.36 (cricket_object)
+
+Frame 57 (1.1s):
+  - (Helmet): 0.70 (cricket_object)
+  - Non-Striker: 0.64 (cricket_object)
+  - Stumps: 0.60 (cricket_object)
+  - Boundary Line: 0.40 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 58 (1.2s):
+  - (Helmet): 0.69 (cricket_object)
+  - Non-Striker: 0.60 (cricket_object)
+  - Boundary Line: 0.47 (cricket_object)
+  - Stumps: 0.63 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 59 (1.2s):
+  - (Helmet): 0.66 (cricket_object)
+  - Boundary Line: 0.47 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+  - Non-Striker: 0.45 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 60 (1.2s):
+  - (Helmet): 0.64 (cricket_object)
+  - Boundary Line: 0.44 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+  - Stumps: 0.36 (cricket_object)
+
+Frame 61 (1.2s):
+  - (Helmet): 0.68 (cricket_object)
+  - Boundary Line: 0.47 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+  - Stumps: 0.35 (cricket_object)
+
+Frame 62 (1.2s):
+  - (Helmet): 0.66 (cricket_object)
+  - (Fielder): 0.52 (cricket_object)
+  - Boundary Line: 0.49 (cricket_object)
+  - Stumps: 0.65 (cricket_object)
+
+Frame 63 (1.3s):
+  - (Helmet): 0.65 (cricket_object)
+  - Boundary Line: 0.49 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+
+Frame 64 (1.3s):
+  - (Helmet): 0.59 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+  - Boundary Line: 0.45 (cricket_object)
+  - Non-Striker: 0.34 (cricket_object)
+
+Frame 65 (1.3s):
+  - (Helmet): 0.65 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+  - Boundary Line: 0.46 (cricket_object)
+  - Non-Striker: 0.44 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 66 (1.3s):
+  - (Helmet): 0.64 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+  - Boundary Line: 0.44 (cricket_object)
+
+Frame 67 (1.3s):
+  - (Helmet): 0.61 (cricket_object)
+  - Non-Striker: 0.64 (cricket_object)
+  - Boundary Line: 0.45 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+
+Frame 68 (1.4s):
+  - (Helmet): 0.57 (cricket_object)
+  - Stumps: 0.63 (cricket_object)
+  - Non-Striker: 0.51 (cricket_object)
+  - Boundary Line: 0.41 (cricket_object)
+
+Frame 69 (1.4s):
+  - (Helmet): 0.63 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+  - Boundary Line: 0.42 (cricket_object)
+  - Non-Striker: 0.47 (cricket_object)
+
+Frame 70 (1.4s):
+  - (Helmet): 0.60 (cricket_object)
+  - Stumps: 0.63 (cricket_object)
+  - Boundary Line: 0.40 (cricket_object)
+
+Frame 71 (1.4s):
+  - (Helmet): 0.65 (cricket_object)
+  - Stumps: 0.67 (cricket_object)
+  - Boundary Line: 0.38 (cricket_object)
+  - Non-Striker: 0.32 (cricket_object)
+
+Frame 72 (1.4s):
+  - (Helmet): 0.52 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+  - Non-Striker: 0.45 (cricket_object)
+  - Boundary Line: 0.38 (cricket_object)
+
+Frame 73 (1.5s):
+  - (Helmet): 0.54 (cricket_object)
+  - Non-Striker: 0.62 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+
+Frame 74 (1.5s):
+  - (Helmet): 0.58 (cricket_object)
+  - Non-Striker: 0.62 (cricket_object)
+  - Stumps: 0.71 (cricket_object)
+  - Boundary Line: 0.38 (cricket_object)
+
+Frame 75 (1.5s):
+  - (Helmet): 0.45 (cricket_object)
+  - Stumps: 0.67 (cricket_object)
+  - Non-Striker: 0.50 (cricket_object)
+  - Boundary Line: 0.37 (cricket_object)
+
+Frame 76 (1.5s):
+  - (Helmet): 0.46 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+  - Non-Striker: 0.45 (cricket_object)
+  - Boundary Line: 0.35 (cricket_object)
+
+Frame 77 (1.5s):
+  - Stumps: 0.68 (cricket_object)
+  - (Helmet): 0.43 (cricket_object)
+  - Non-Striker: 0.52 (cricket_object)
+
+Frame 78 (1.6s):
+  - (Helmet): 0.56 (cricket_object)
+  - Stumps: 0.71 (cricket_object)
+  - Non-Striker: 0.57 (cricket_object)
+
+Frame 79 (1.6s):
+  - Non-Striker: 0.70 (cricket_object)
+  - Stumps: 0.70 (cricket_object)
+
+Frame 80 (1.6s):
+  - Non-Striker: 0.79 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+
+Frame 81 (1.6s):
+  - Non-Striker: 0.70 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+  - Boundary Line: 0.37 (cricket_object)
+
+Frame 82 (1.6s):
+  - (Helmet): 0.41 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+  - Non-Striker: 0.50 (cricket_object)
+
+Frame 83 (1.7s):
+  - Non-Striker: 0.58 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+
+Frame 84 (1.7s):
+  - Non-Striker: 0.53 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+
+Frame 85 (1.7s):
+  - Stumps: 0.61 (cricket_object)
+  - Non-Striker: 0.43 (cricket_object)
+
+Frame 86 (1.7s):
+  - Stumps: 0.65 (cricket_object)
+  - Non-Striker: 0.41 (cricket_object)
+
+Frame 87 (1.7s):
+  - Stumps: 0.64 (cricket_object)
+  - Non-Striker: 0.52 (cricket_object)
+
+Frame 88 (1.8s):
+  - Stumps: 0.66 (cricket_object)
+  - Non-Striker: 0.49 (cricket_object)
+
+Frame 89 (1.8s):
+  - Non-Striker: 0.62 (cricket_object)
+  - Stumps: 0.66 (cricket_object)
+
+Frame 90 (1.8s):
+  - Stumps: 0.64 (cricket_object)
+  - Non-Striker: 0.39 (cricket_object)
+
+Frame 91 (1.8s):
+  - Stumps: 0.70 (cricket_object)
+  - Non-Striker: 0.45 (cricket_object)
+
+Frame 92 (1.8s):
+  - Stumps: 0.64 (cricket_object)
+
+Frame 93 (1.9s):
+  - (Helmet): 0.65 (cricket_object)
+  - Stumps: 0.63 (cricket_object)
+
+Frame 94 (1.9s):
+  - (Helmet): 0.67 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+  - Non-Striker: 0.30 (cricket_object)
+
+Frame 95 (1.9s):
+  - (Helmet): 0.67 (cricket_object)
+  - Stumps: 0.66 (cricket_object)
+  - Non-Striker: 0.40 (cricket_object)
+
+Frame 96 (1.9s):
+  - (Helmet): 0.66 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+  - Non-Striker: 0.41 (cricket_object)
+
+Frame 97 (1.9s):
+  - (Helmet): 0.68 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+  - Non-Striker: 0.44 (cricket_object)
+
+Frame 98 (2.0s):
+  - (Helmet): 0.65 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+  - Non-Striker: 0.32 (cricket_object)
+
+Frame 99 (2.0s):
+  - (Helmet): 0.57 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+
+Frame 100 (2.0s):
+  - (Helmet): 0.62 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+
+Frame 101 (2.0s):
+  - (Helmet): 0.62 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+  - Non-Striker: 0.32 (cricket_object)
+  - Stumps: 0.36 (cricket_object)
+
+Frame 102 (2.0s):
+  - (Helmet): 0.52 (cricket_object)
+  - Stumps: 0.55 (cricket_object)
+  - Non-Striker: 0.34 (cricket_object)
+
+Frame 103 (2.1s):
+  - (Helmet): 0.57 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+  - Non-Striker: 0.34 (cricket_object)
+
+Frame 104 (2.1s):
+  - (Helmet): 0.63 (cricket_object)
+  - Stumps: 0.51 (cricket_object)
+  - Non-Striker: 0.36 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 105 (2.1s):
+  - (Helmet): 0.55 (cricket_object)
+  - Stumps: 0.53 (cricket_object)
+  - Non-Striker: 0.34 (cricket_object)
+  - Stumps: 0.35 (cricket_object)
+
+Frame 106 (2.1s):
+  - (Helmet): 0.58 (cricket_object)
+  - Stumps: 0.56 (cricket_object)
+  - Non-Striker: 0.31 (cricket_object)
+
+Frame 107 (2.1s):
+  - (Helmet): 0.55 (cricket_object)
+  - Stumps: 0.54 (cricket_object)
+  - Non-Striker: 0.32 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 108 (2.2s):
+  - (Helmet): 0.55 (cricket_object)
+  - Stumps: 0.54 (cricket_object)
+  - Non-Striker: 0.36 (cricket_object)
+
+Frame 109 (2.2s):
+  - (Helmet): 0.53 (cricket_object)
+  - Stumps: 0.51 (cricket_object)
+  - Non-Striker: 0.39 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 110 (2.2s):
+  - (Helmet): 0.60 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+  - Non-Striker: 0.39 (cricket_object)
+
+Frame 111 (2.2s):
+  - (Helmet): 0.65 (cricket_object)
+  - Non-Striker: 0.43 (cricket_object)
+  - Stumps: 0.48 (cricket_object)
+
+Frame 112 (2.2s):
+  - (Helmet): 0.63 (cricket_object)
+  - Non-Striker: 0.45 (cricket_object)
+  - Stumps: 0.44 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 113 (2.3s):
+  - (Helmet): 0.65 (cricket_object)
+  - Non-Striker: 0.43 (cricket_object)
+  - Stumps: 0.50 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 114 (2.3s):
+  - (Helmet): 0.67 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+  - Non-Striker: 0.46 (cricket_object)
+
+Frame 115 (2.3s):
+  - (Helmet): 0.65 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+  - Non-Striker: 0.43 (cricket_object)
+
+Frame 116 (2.3s):
+  - (Helmet): 0.68 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+  - Non-Striker: 0.39 (cricket_object)
+
+Frame 117 (2.3s):
+  - (Helmet): 0.67 (cricket_object)
+  - Stumps: 0.56 (cricket_object)
+  - Non-Striker: 0.37 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 118 (2.4s):
+  - (Helmet): 0.68 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+  - Non-Striker: 0.34 (cricket_object)
+
+Frame 119 (2.4s):
+  - (Helmet): 0.69 (cricket_object)
+  - Stumps: 0.52 (cricket_object)
+  - Non-Striker: 0.35 (cricket_object)
+
+Frame 120 (2.4s):
+  - (Helmet): 0.68 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+
+Frame 121 (2.4s):
+  - (Helmet): 0.67 (cricket_object)
+  - Stumps: 0.55 (cricket_object)
+  - Non-Striker: 0.32 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 122 (2.4s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.51 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+
+Frame 123 (2.5s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.64 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+
+Frame 124 (2.5s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.58 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+
+Frame 125 (2.5s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.46 (cricket_object)
+  - Stumps: 0.54 (cricket_object)
+
+Frame 126 (2.5s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.60 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+
+Frame 127 (2.5s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.60 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+
+Frame 128 (2.6s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.66 (cricket_object)
+  - Stumps: 0.53 (cricket_object)
+
+Frame 129 (2.6s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.65 (cricket_object)
+  - Stumps: 0.58 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 130 (2.6s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.77 (cricket_object)
+  - Stumps: 0.63 (cricket_object)
+
+Frame 131 (2.6s):
+  - (Helmet): 0.65 (cricket_object)
+  - Non-Striker: 0.80 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+
+Frame 132 (2.6s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.74 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+
+Frame 133 (2.7s):
+  - (Helmet): 0.69 (cricket_object)
+  - Non-Striker: 0.76 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+
+Frame 134 (2.7s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.77 (cricket_object)
+  - Stumps: 0.65 (cricket_object)
+
+Frame 135 (2.7s):
+  - (Helmet): 0.64 (cricket_object)
+  - Non-Striker: 0.81 (cricket_object)
+  - Stumps: 0.68 (cricket_object)
+
+Frame 136 (2.7s):
+  - (Helmet): 0.63 (cricket_object)
+  - Non-Striker: 0.81 (cricket_object)
+  - Stumps: 0.67 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 137 (2.7s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.84 (cricket_object)
+  - Stumps: 0.66 (cricket_object)
+  - Umpire: 0.35 (cricket_object)
+
+Frame 138 (2.8s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.84 (cricket_object)
+  - Stumps: 0.68 (cricket_object)
+  - Boundary Line: 0.35 (cricket_object)
+  - Umpire: 0.42 (cricket_object)
+
+Frame 139 (2.8s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.84 (cricket_object)
+  - Stumps: 0.68 (cricket_object)
+  - Umpire: 0.59 (cricket_object)
+
+Frame 140 (2.8s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.84 (cricket_object)
+  - Umpire: 0.70 (cricket_object)
+  - Stumps: 0.72 (cricket_object)
+
+Frame 141 (2.8s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.82 (cricket_object)
+  - Umpire: 0.74 (cricket_object)
+  - Stumps: 0.65 (cricket_object)
+
+Frame 142 (2.8s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.79 (cricket_object)
+  - Umpire: 0.75 (cricket_object)
+  - Stumps: 0.71 (cricket_object)
+
+Frame 143 (2.9s):
+  - (Helmet): 0.62 (cricket_object)
+  - Non-Striker: 0.75 (cricket_object)
+  - Umpire: 0.78 (cricket_object)
+  - Stumps: 0.68 (cricket_object)
+
+Frame 144 (2.9s):
+  - (Helmet): 0.64 (cricket_object)
+  - Non-Striker: 0.76 (cricket_object)
+  - Umpire: 0.78 (cricket_object)
+  - Stumps: 0.67 (cricket_object)
+
+Frame 145 (2.9s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.76 (cricket_object)
+  - Umpire: 0.76 (cricket_object)
+  - Stumps: 0.65 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 146 (2.9s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.81 (cricket_object)
+  - Umpire: 0.74 (cricket_object)
+  - Stumps: 0.67 (cricket_object)
+
+Frame 147 (2.9s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.83 (cricket_object)
+  - Umpire: 0.73 (cricket_object)
+  - Stumps: 0.68 (cricket_object)
+
+Frame 148 (3.0s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.80 (cricket_object)
+  - Umpire: 0.62 (cricket_object)
+  - Stumps: 0.65 (cricket_object)
+
+Frame 149 (3.0s):
+  - (Helmet): 0.65 (cricket_object)
+  - Non-Striker: 0.77 (cricket_object)
+  - Umpire: 0.59 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+
+Frame 150 (3.0s):
+  - Non-Striker: 0.81 (cricket_object)
+  - (Helmet): 0.62 (cricket_object)
+  - Stumps: 0.66 (cricket_object)
+  - Umpire: 0.46 (cricket_object)
+
+Frame 151 (3.0s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.86 (cricket_object)
+  - Stumps: 0.58 (cricket_object)
+  - Umpire: 0.43 (cricket_object)
+
+Frame 152 (3.0s):
+  - Non-Striker: 0.88 (cricket_object)
+  - (Helmet): 0.66 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 153 (3.1s):
+  - Non-Striker: 0.86 (cricket_object)
+  - (Helmet): 0.66 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 154 (3.1s):
+  - Non-Striker: 0.85 (cricket_object)
+  - (Helmet): 0.65 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+
+Frame 155 (3.1s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.85 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+
+Frame 156 (3.1s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.81 (cricket_object)
+  - Stumps: 0.56 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 157 (3.1s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.80 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 158 (3.2s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.77 (cricket_object)
+  - Stumps: 0.60 (cricket_object)
+
+Frame 159 (3.2s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.82 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+  - Boundary Line: 0.36 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 160 (3.2s):
+  - (Helmet): 0.60 (cricket_object)
+  - Non-Striker: 0.74 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+  - Boundary Line: 0.35 (cricket_object)
+  - Stumps: 0.37 (cricket_object)
+
+Frame 161 (3.2s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.72 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+  - Boundary Line: 0.37 (cricket_object)
+  - Stumps: 0.35 (cricket_object)
+
+Frame 162 (3.2s):
+  - (Helmet): 0.64 (cricket_object)
+  - Non-Striker: 0.75 (cricket_object)
+  - Stumps: 0.69 (cricket_object)
+  - Boundary Line: 0.37 (cricket_object)
+
+Frame 163 (3.3s):
+  - (Helmet): 0.64 (cricket_object)
+  - Non-Striker: 0.73 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+  - Boundary Line: 0.36 (cricket_object)
+
+Frame 164 (3.3s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.72 (cricket_object)
+  - Stumps: 0.68 (cricket_object)
+  - Boundary Line: 0.38 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 165 (3.3s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.70 (cricket_object)
+  - Stumps: 0.69 (cricket_object)
+  - Boundary Line: 0.37 (cricket_object)
+
+Frame 166 (3.3s):
+  - (Helmet): 0.65 (cricket_object)
+  - Non-Striker: 0.71 (cricket_object)
+  - Stumps: 0.67 (cricket_object)
+  - Boundary Line: 0.40 (cricket_object)
+
+Frame 167 (3.3s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.72 (cricket_object)
+  - Stumps: 0.66 (cricket_object)
+  - Boundary Line: 0.40 (cricket_object)
+
+Frame 168 (3.4s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.67 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+  - Boundary Line: 0.38 (cricket_object)
+
+Frame 169 (3.4s):
+  - (Helmet): 0.62 (cricket_object)
+  - Non-Striker: 0.60 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+  - Boundary Line: 0.38 (cricket_object)
+
+Frame 170 (3.4s):
+  - (Helmet): 0.61 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+  - Non-Striker: 0.48 (cricket_object)
+  - Boundary Line: 0.41 (cricket_object)
+
+Frame 171 (3.4s):
+  - (Helmet): 0.64 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+  - Boundary Line: 0.40 (cricket_object)
+  - Non-Striker: 0.44 (cricket_object)
+
+Frame 172 (3.4s):
+  - (Helmet): 0.66 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+  - Non-Striker: 0.52 (cricket_object)
+  - Boundary Line: 0.42 (cricket_object)
+  - Umpire: 0.39 (cricket_object)
+  - Stumps: 0.35 (cricket_object)
+
+Frame 173 (3.5s):
+  - (Helmet): 0.65 (cricket_object)
+  - Non-Striker: 0.60 (cricket_object)
+  - Umpire: 0.61 (cricket_object)
+  - Stumps: 0.65 (cricket_object)
+  - Boundary Line: 0.42 (cricket_object)
+
+Frame 174 (3.5s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.68 (cricket_object)
+  - Stumps: 0.71 (cricket_object)
+  - Umpire: 0.59 (cricket_object)
+  - Boundary Line: 0.40 (cricket_object)
+  - Ball (Tracked): 0.35 (ball)
+
+Frame 175 (3.5s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.68 (cricket_object)
+  - Stumps: 0.67 (cricket_object)
+  - Umpire: 0.60 (cricket_object)
+  - Boundary Line: 0.40 (cricket_object)
+  - Ball (Tracked): 0.50 (ball)
+
+Frame 176 (3.5s):
+  - (Helmet): 0.65 (cricket_object)
+  - Stumps: 0.68 (cricket_object)
+  - Non-Striker: 0.52 (cricket_object)
+  - Umpire: 0.57 (cricket_object)
+  - Boundary Line: 0.44 (cricket_object)
+  - Ball (Tracked): 0.48 (ball)
+
+Frame 177 (3.5s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.51 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+  - Boundary Line: 0.41 (cricket_object)
+  - Umpire: 0.41 (cricket_object)
+  - Ball (Tracked): 0.36 (ball)
+
+Frame 178 (3.6s):
+  - (Helmet): 0.65 (cricket_object)
+  - Stumps: 0.72 (cricket_object)
+  - Boundary Line: 0.42 (cricket_object)
+  - Non-Striker: 0.43 (cricket_object)
+
+Frame 179 (3.6s):
+  - (Helmet): 0.67 (cricket_object)
+  - Stumps: 0.67 (cricket_object)
+  - Non-Striker: 0.50 (cricket_object)
+  - Bowler: 0.64 (cricket_object)
+  - Boundary Line: 0.39 (cricket_object)
+
+Frame 180 (3.6s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.62 (cricket_object)
+  - Stumps: 0.69 (cricket_object)
+  - Bowler: 0.73 (cricket_object)
+  - Boundary Line: 0.37 (cricket_object)
+
+Frame 181 (3.6s):
+  - (Helmet): 0.68 (cricket_object)
+  - Bowler: 0.93 (cricket_object)
+  - Non-Striker: 0.67 (cricket_object)
+  - Stumps: 0.66 (cricket_object)
+  - Boundary Line: 0.40 (cricket_object)
+
+Frame 182 (3.6s):
+  - (Helmet): 0.67 (cricket_object)
+  - Bowler: 0.84 (cricket_object)
+  - Non-Striker: 0.60 (cricket_object)
+  - Stumps: 0.63 (cricket_object)
+  - Boundary Line: 0.38 (cricket_object)
+  - Umpire: 0.37 (cricket_object)
+
+Frame 183 (3.7s):
+  - (Helmet): 0.68 (cricket_object)
+  - Bowler: 0.78 (cricket_object)
+  - Stumps: 0.65 (cricket_object)
+  - Non-Striker: 0.49 (cricket_object)
+  - Boundary Line: 0.37 (cricket_object)
+  - Umpire: 0.38 (cricket_object)
+
+Frame 184 (3.7s):
+  - (Helmet): 0.65 (cricket_object)
+  - Bowler: 0.75 (cricket_object)
+  - Stumps: 0.68 (cricket_object)
+  - Boundary Line: 0.35 (cricket_object)
+  - Umpire: 0.35 (cricket_object)
+
+Frame 185 (3.7s):
+  - (Helmet): 0.67 (cricket_object)
+  - Bowler: 0.72 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+  - Boundary Line: 0.36 (cricket_object)
+  - Umpire: 0.39 (cricket_object)
+
+Frame 186 (3.7s):
+  - (Helmet): 0.69 (cricket_object)
+  - Stumps: 0.65 (cricket_object)
+  - Bowler: 0.68 (cricket_object)
+  - Boundary Line: 0.38 (cricket_object)
+  - Umpire: 0.38 (cricket_object)
+
+Frame 187 (3.7s):
+  - (Helmet): 0.69 (cricket_object)
+  - Umpire: 0.60 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+  - Bowler: 0.65 (cricket_object)
+  - Boundary Line: 0.40 (cricket_object)
+
+Frame 188 (3.8s):
+  - (Helmet): 0.67 (cricket_object)
+  - Stumps: 0.68 (cricket_object)
+  - Bowler: 0.73 (cricket_object)
+  - Boundary Line: 0.41 (cricket_object)
+  - Umpire: 0.51 (cricket_object)
+  - Stumps: 0.35 (cricket_object)
+
+Frame 189 (3.8s):
+  - (Helmet): 0.66 (cricket_object)
+  - Bowler: 0.93 (cricket_object)
+  - Stumps: 0.66 (cricket_object)
+  - Boundary Line: 0.36 (cricket_object)
+  - Stumps: 0.35 (cricket_object)
+
+Frame 190 (3.8s):
+  - (Helmet): 0.63 (cricket_object)
+  - Stumps: 0.66 (cricket_object)
+  - Bowler: 0.65 (cricket_object)
+  - Boundary Line: 0.37 (cricket_object)
+
+Frame 191 (3.8s):
+  - (Helmet): 0.63 (cricket_object)
+  - Stumps: 0.70 (cricket_object)
+  - Bowler: 0.69 (cricket_object)
+  - Boundary Line: 0.35 (cricket_object)
+
+Frame 192 (3.8s):
+  - (Helmet): 0.58 (cricket_object)
+  - Stumps: 0.71 (cricket_object)
+  - Umpire: 0.49 (cricket_object)
+  - Boundary Line: 0.38 (cricket_object)
+
+Frame 193 (3.9s):
+  - (Helmet): 0.59 (cricket_object)
+  - Stumps: 0.68 (cricket_object)
+  - Non-Striker: 0.51 (cricket_object)
+  - Umpire: 0.56 (cricket_object)
+  - Boundary Line: 0.39 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 194 (3.9s):
+  - (Helmet): 0.64 (cricket_object)
+  - Stumps: 0.70 (cricket_object)
+  - Non-Striker: 0.53 (cricket_object)
+  - Boundary Line: 0.42 (cricket_object)
+  - Umpire: 0.48 (cricket_object)
+
+Frame 195 (3.9s):
+  - (Helmet): 0.64 (cricket_object)
+  - Non-Striker: 0.64 (cricket_object)
+  - Stumps: 0.72 (cricket_object)
+  - Boundary Line: 0.38 (cricket_object)
+  - Umpire: 0.39 (cricket_object)
+  - Stumps: 0.36 (cricket_object)
+
+Frame 196 (3.9s):
+  - (Helmet): 0.64 (cricket_object)
+  - Non-Striker: 0.64 (cricket_object)
+  - Stumps: 0.68 (cricket_object)
+  - Boundary Line: 0.39 (cricket_object)
+  - Stumps: 0.35 (cricket_object)
+
+Frame 197 (3.9s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.72 (cricket_object)
+  - Bowler: 0.79 (cricket_object)
+  - Stumps: 0.60 (cricket_object)
+  - Boundary Line: 0.41 (cricket_object)
+  - Stumps: 0.35 (cricket_object)
+
+Frame 198 (4.0s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.77 (cricket_object)
+  - Stumps: 0.71 (cricket_object)
+  - Boundary Line: 0.44 (cricket_object)
+  - Umpire: 0.40 (cricket_object)
+
+Frame 199 (4.0s):
+  - (Helmet): 0.65 (cricket_object)
+  - Non-Striker: 0.74 (cricket_object)
+  - Stumps: 0.70 (cricket_object)
+  - Boundary Line: 0.41 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 200 (4.0s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.69 (cricket_object)
+  - Stumps: 0.71 (cricket_object)
+  - Boundary Line: 0.42 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 201 (4.0s):
+  - (Helmet): 0.65 (cricket_object)
+  - Non-Striker: 0.62 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+  - Boundary Line: 0.39 (cricket_object)
+
+Frame 202 (4.0s):
+  - (Helmet): 0.65 (cricket_object)
+  - Non-Striker: 0.58 (cricket_object)
+  - Stumps: 0.68 (cricket_object)
+  - Boundary Line: 0.44 (cricket_object)
+  - Stumps: 0.35 (cricket_object)
+
+Frame 203 (4.1s):
+  - (Helmet): 0.64 (cricket_object)
+  - Bowler: 0.70 (cricket_object)
+  - Non-Striker: 0.52 (cricket_object)
+  - Stumps: 0.63 (cricket_object)
+  - Boundary Line: 0.40 (cricket_object)
+  - Umpire: 0.48 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 204 (4.1s):
+  - (Helmet): 0.61 (cricket_object)
+  - Umpire: 0.66 (cricket_object)
+  - Boundary Line: 0.42 (cricket_object)
+  - Stumps: 0.58 (cricket_object)
+  - Stumps: 0.37 (cricket_object)
+
+Frame 205 (4.1s):
+  - (Helmet): 0.62 (cricket_object)
+  - Umpire: 0.72 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+  - Boundary Line: 0.40 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 206 (4.1s):
+  - (Helmet): 0.63 (cricket_object)
+  - Umpire: 0.78 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+  - Boundary Line: 0.40 (cricket_object)
+
+Frame 207 (4.1s):
+  - (Helmet): 0.65 (cricket_object)
+  - Umpire: 0.79 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+  - Non-Striker: 0.46 (cricket_object)
+  - Boundary Line: 0.38 (cricket_object)
+
+Frame 208 (4.2s):
+  - (Helmet): 0.66 (cricket_object)
+  - Umpire: 0.61 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+  - Boundary Line: 0.41 (cricket_object)
+  - Non-Striker: 0.43 (cricket_object)
+
+Frame 209 (4.2s):
+  - (Helmet): 0.66 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+  - Boundary Line: 0.40 (cricket_object)
+  - Umpire: 0.49 (cricket_object)
+
+Frame 210 (4.2s):
+  - (Helmet): 0.66 (cricket_object)
+  - Stumps: 0.66 (cricket_object)
+  - Umpire: 0.58 (cricket_object)
+  - Boundary Line: 0.41 (cricket_object)
+
+Frame 211 (4.2s):
+  - (Helmet): 0.67 (cricket_object)
+  - Boundary Line: 0.41 (cricket_object)
+  - Stumps: 0.56 (cricket_object)
+  - Umpire: 0.41 (cricket_object)
+  - Stumps: 0.34 (cricket_object)
+
+Frame 212 (4.2s):
+  - (Helmet): 0.67 (cricket_object)
+  - Bowler: 0.75 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+  - Boundary Line: 0.41 (cricket_object)
+
+Frame 213 (4.3s):
+  - (Helmet): 0.68 (cricket_object)
+  - Bowler: 0.65 (cricket_object)
+  - Boundary Line: 0.40 (cricket_object)
+  - Stumps: 0.54 (cricket_object)
+
+Frame 214 (4.3s):
+  - (Helmet): 0.69 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+  - Bowler: 0.67 (cricket_object)
+  - Boundary Line: 0.43 (cricket_object)
+  - Umpire: 0.43 (cricket_object)
+
+Frame 215 (4.3s):
+  - (Helmet): 0.69 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+  - Boundary Line: 0.42 (cricket_object)
+  - Umpire: 0.43 (cricket_object)
+
+Frame 216 (4.3s):
+  - (Helmet): 0.69 (cricket_object)
+  - Bowler: 0.73 (cricket_object)
+  - Stumps: 0.63 (cricket_object)
+  - Boundary Line: 0.45 (cricket_object)
+
+Frame 217 (4.3s):
+  - (Helmet): 0.69 (cricket_object)
+  - Bowler: 0.94 (cricket_object)
+  - Boundary Line: 0.43 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+
+Frame 218 (4.4s):
+  - (Helmet): 0.69 (cricket_object)
+  - Bowler: 0.86 (cricket_object)
+  - Stumps: 0.63 (cricket_object)
+  - Boundary Line: 0.45 (cricket_object)
+
+Frame 219 (4.4s):
+  - (Helmet): 0.69 (cricket_object)
+  - Bowler: 0.77 (cricket_object)
+  - Stumps: 0.67 (cricket_object)
+  - Boundary Line: 0.45 (cricket_object)
+
+Frame 220 (4.4s):
+  - (Helmet): 0.68 (cricket_object)
+  - Bowler: 0.82 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+  - Boundary Line: 0.45 (cricket_object)
+
+Frame 221 (4.4s):
+  - (Helmet): 0.69 (cricket_object)
+  - Stumps: 0.65 (cricket_object)
+  - Boundary Line: 0.42 (cricket_object)
+  - Bowler: 0.60 (cricket_object)
+  - Umpire: 0.38 (cricket_object)
+
+Frame 222 (4.4s):
+  - (Helmet): 0.68 (cricket_object)
+  - Stumps: 0.72 (cricket_object)
+  - Boundary Line: 0.44 (cricket_object)
+  - Umpire: 0.38 (cricket_object)
+
+Frame 223 (4.5s):
+  - (Helmet): 0.68 (cricket_object)
+  - Stumps: 0.72 (cricket_object)
+  - Bowler: 0.67 (cricket_object)
+  - Boundary Line: 0.42 (cricket_object)
+
+Frame 224 (4.5s):
+  - (Helmet): 0.68 (cricket_object)
+  - Bowler: 0.84 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+  - Boundary Line: 0.45 (cricket_object)
+
+Frame 225 (4.5s):
+  - (Helmet): 0.68 (cricket_object)
+  - Stumps: 0.70 (cricket_object)
+  - Bowler: 0.74 (cricket_object)
+  - Boundary Line: 0.44 (cricket_object)
+  - Umpire: 0.36 (cricket_object)
+
+Frame 226 (4.5s):
+  - (Helmet): 0.68 (cricket_object)
+  - Stumps: 0.70 (cricket_object)
+  - Boundary Line: 0.45 (cricket_object)
+  - Bowler: 0.64 (cricket_object)
+  - Umpire: 0.40 (cricket_object)
+
+Frame 227 (4.5s):
+  - (Helmet): 0.67 (cricket_object)
+  - Stumps: 0.67 (cricket_object)
+  - Bowler: 0.67 (cricket_object)
+  - Boundary Line: 0.43 (cricket_object)
+  - Umpire: 0.44 (cricket_object)
+
+Frame 228 (4.6s):
+  - (Helmet): 0.67 (cricket_object)
+  - Stumps: 0.66 (cricket_object)
+  - Boundary Line: 0.45 (cricket_object)
+  - Umpire: 0.51 (cricket_object)
+
+Frame 229 (4.6s):
+  - (Helmet): 0.68 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+  - Non-Striker: 0.50 (cricket_object)
+  - Boundary Line: 0.43 (cricket_object)
+  - Umpire: 0.41 (cricket_object)
+
+Frame 230 (4.6s):
+  - (Helmet): 0.67 (cricket_object)
+  - Stumps: 0.65 (cricket_object)
+  - Boundary Line: 0.44 (cricket_object)
+  - Non-Striker: 0.43 (cricket_object)
+
+Frame 231 (4.6s):
+  - (Helmet): 0.65 (cricket_object)
+  - Stumps: 0.65 (cricket_object)
+  - Boundary Line: 0.41 (cricket_object)
+  - Umpire: 0.38 (cricket_object)
+
+Frame 232 (4.6s):
+  - (Helmet): 0.64 (cricket_object)
+  - Bowler: 0.81 (cricket_object)
+  - Stumps: 0.68 (cricket_object)
+  - Non-Striker: 0.50 (cricket_object)
+  - Boundary Line: 0.44 (cricket_object)
+  - Umpire: 0.38 (cricket_object)
+
+Frame 233 (4.7s):
+  - (Helmet): 0.66 (cricket_object)
+  - Bowler: 0.70 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+  - Non-Striker: 0.47 (cricket_object)
+  - Umpire: 0.52 (cricket_object)
+  - Boundary Line: 0.40 (cricket_object)
+
+Frame 234 (4.7s):
+  - (Helmet): 0.61 (cricket_object)
+  - Umpire: 0.63 (cricket_object)
+  - Stumps: 0.67 (cricket_object)
+  - Non-Striker: 0.51 (cricket_object)
+  - Boundary Line: 0.43 (cricket_object)
+
+Frame 235 (4.7s):
+  - (Helmet): 0.64 (cricket_object)
+  - Non-Striker: 0.61 (cricket_object)
+  - Stumps: 0.65 (cricket_object)
+  - Umpire: 0.54 (cricket_object)
+  - Boundary Line: 0.42 (cricket_object)
+  - Stumps: 0.33 (cricket_object)
+
+Frame 236 (4.7s):
+  - (Helmet): 0.62 (cricket_object)
+  - Non-Striker: 0.76 (cricket_object)
+  - Umpire: 0.57 (cricket_object)
+  - Boundary Line: 0.46 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+
+Frame 237 (4.7s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.72 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+  - Boundary Line: 0.41 (cricket_object)
+  - Umpire: 0.43 (cricket_object)
+
+Frame 238 (4.8s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.76 (cricket_object)
+  - Stumps: 0.65 (cricket_object)
+  - Boundary Line: 0.45 (cricket_object)
+  - Bowler: 0.60 (cricket_object)
+  - Umpire: 0.45 (cricket_object)
+
+Frame 239 (4.8s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.77 (cricket_object)
+  - Umpire: 0.57 (cricket_object)
+  - Boundary Line: 0.44 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+
+Frame 240 (4.8s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.79 (cricket_object)
+  - Umpire: 0.85 (cricket_object)
+  - Stumps: 0.63 (cricket_object)
+  - Boundary Line: 0.43 (cricket_object)
+
+Frame 241 (4.8s):
+  - (Helmet): 0.67 (cricket_object)
+  - Umpire: 0.92 (cricket_object)
+  - Non-Striker: 0.80 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+  - Boundary Line: 0.41 (cricket_object)
+
+Frame 242 (4.8s):
+  - (Helmet): 0.65 (cricket_object)
+  - Non-Striker: 0.79 (cricket_object)
+  - Umpire: 0.76 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+  - Boundary Line: 0.39 (cricket_object)
+
+Frame 243 (4.9s):
+  - (Helmet): 0.64 (cricket_object)
+  - Non-Striker: 0.78 (cricket_object)
+  - Umpire: 0.76 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+  - Boundary Line: 0.40 (cricket_object)
+
+Frame 244 (4.9s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.75 (cricket_object)
+  - Umpire: 0.76 (cricket_object)
+  - Boundary Line: 0.42 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+  - Bowler: 0.62 (cricket_object)
+
+Frame 245 (4.9s):
+  - (Helmet): 0.67 (cricket_object)
+  - Non-Striker: 0.75 (cricket_object)
+  - Bowler: 0.86 (cricket_object)
+  - Umpire: 0.68 (cricket_object)
+  - Stumps: 0.56 (cricket_object)
+  - Boundary Line: 0.38 (cricket_object)
+
+Frame 246 (4.9s):
+  - (Helmet): 0.68 (cricket_object)
+  - Non-Striker: 0.74 (cricket_object)
+  - Bowler: 0.91 (cricket_object)
+  - Umpire: 0.68 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+  - Boundary Line: 0.41 (cricket_object)
+
+Frame 247 (4.9s):
+  - (Helmet): 0.67 (cricket_object)
+  - Bowler: 0.99 (cricket_object)
+  - Non-Striker: 0.77 (cricket_object)
+  - Umpire: 0.73 (cricket_object)
+  - Stumps: 0.58 (cricket_object)
+  - Boundary Line: 0.38 (cricket_object)
+
+Frame 248 (5.0s):
+  - (Helmet): 0.64 (cricket_object)
+  - Bowler: 0.99 (cricket_object)
+  - Non-Striker: 0.74 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+  - Boundary Line: 0.41 (cricket_object)
+  - Umpire: 0.40 (cricket_object)
+
+Frame 249 (5.0s):
+  - (Helmet): 0.65 (cricket_object)
+  - Bowler: 0.99 (cricket_object)
+  - Non-Striker: 0.71 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+  - Umpire: 0.55 (cricket_object)
+  - Boundary Line: 0.38 (cricket_object)
+
+Frame 250 (5.0s):
+  - (Helmet): 0.65 (cricket_object)
+  - Non-Striker: 0.71 (cricket_object)
+  - Bowler: 0.94 (cricket_object)
+  - Umpire: 0.61 (cricket_object)
+  - Stumps: 0.63 (cricket_object)
+  - Boundary Line: 0.41 (cricket_object)
+
+Frame 251 (5.0s):
+  - (Helmet): 0.64 (cricket_object)
+  - Bowler: 0.97 (cricket_object)
+  - Non-Striker: 0.72 (cricket_object)
+  - Umpire: 0.61 (cricket_object)
+  - Stumps: 0.55 (cricket_object)
+  - Boundary Line: 0.38 (cricket_object)
+
+Frame 252 (5.0s):
+  - (Helmet): 0.65 (cricket_object)
+  - Bowler: 0.97 (cricket_object)
+  - Non-Striker: 0.68 (cricket_object)
+  - Umpire: 0.58 (cricket_object)
+  - Stumps: 0.63 (cricket_object)
+  - Boundary Line: 0.42 (cricket_object)
+
+Frame 253 (5.1s):
+  - (Helmet): 0.66 (cricket_object)
+  - Bowler: 0.93 (cricket_object)
+  - Non-Striker: 0.62 (cricket_object)
+  - Umpire: 0.66 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+  - Boundary Line: 0.36 (cricket_object)
+
+Frame 254 (5.1s):
+  - (Helmet): 0.67 (cricket_object)
+  - Bowler: 0.87 (cricket_object)
+  - Non-Striker: 0.63 (cricket_object)
+  - Umpire: 0.67 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+  - Boundary Line: 0.41 (cricket_object)
+
+Frame 255 (5.1s):
+  - (Helmet): 0.61 (cricket_object)
+  - Non-Striker: 0.60 (cricket_object)
+  - Bowler: 0.73 (cricket_object)
+  - Stumps: 0.60 (cricket_object)
+  - Umpire: 0.54 (cricket_object)
+
+Frame 256 (5.1s):
+  - (Helmet): 0.62 (cricket_object)
+  - Non-Striker: 0.64 (cricket_object)
+  - Umpire: 0.69 (cricket_object)
+  - Stumps: 0.67 (cricket_object)
+  - Bowler: 0.62 (cricket_object)
+  - Boundary Line: 0.39 (cricket_object)
+
+Frame 257 (5.1s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.61 (cricket_object)
+  - Bowler: 0.79 (cricket_object)
+  - Umpire: 0.62 (cricket_object)
+  - Stumps: 0.65 (cricket_object)
+  - Boundary Line: 0.36 (cricket_object)
+
+Frame 258 (5.2s):
+  - (Helmet): 0.63 (cricket_object)
+  - Non-Striker: 0.65 (cricket_object)
+  - Stumps: 0.70 (cricket_object)
+  - Bowler: 0.65 (cricket_object)
+  - Umpire: 0.52 (cricket_object)
+  - Boundary Line: 0.39 (cricket_object)
+
+Frame 259 (5.2s):
+  - (Helmet): 0.60 (cricket_object)
+  - Non-Striker: 0.61 (cricket_object)
+  - Bowler: 0.76 (cricket_object)
+  - Stumps: 0.67 (cricket_object)
+  - Umpire: 0.44 (cricket_object)
+
+Frame 260 (5.2s):
+  - (Helmet): 0.64 (cricket_object)
+  - Non-Striker: 0.61 (cricket_object)
+  - Bowler: 0.80 (cricket_object)
+  - Stumps: 0.66 (cricket_object)
+
+Frame 261 (5.2s):
+  - (Helmet): 0.65 (cricket_object)
+  - Non-Striker: 0.69 (cricket_object)
+  - Bowler: 0.83 (cricket_object)
+  - Stumps: 0.63 (cricket_object)
+
+Frame 262 (5.2s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.62 (cricket_object)
+  - Stumps: 0.65 (cricket_object)
+  - Bowler: 0.71 (cricket_object)
+
+Frame 263 (5.3s):
+  - (Helmet): 0.66 (cricket_object)
+  - Non-Striker: 0.61 (cricket_object)
+  - Stumps: 0.66 (cricket_object)
+  - Bowler: 0.63 (cricket_object)
+
+Frame 264 (5.3s):
+  - (Helmet): 0.67 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Stumps: 0.73 (cricket_object)
+
+Frame 265 (5.3s):
+  - (Helmet): 0.66 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Stumps: 0.72 (cricket_object)
+
+Frame 266 (5.3s):
+  - (Helmet): 0.65 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Stumps: 0.74 (cricket_object)
+  - Umpire: 0.46 (cricket_object)
+
+Frame 267 (5.3s):
+  - (Helmet): 0.59 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Umpire: 0.71 (cricket_object)
+  - Stumps: 0.73 (cricket_object)
+
+Frame 268 (5.4s):
+  - (Helmet): 0.58 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Stumps: 0.74 (cricket_object)
+  - Umpire: 0.44 (cricket_object)
+
+Frame 269 (5.4s):
+  - Batter: 0.99 (cricket_object)
+  - (Helmet): 0.57 (cricket_object)
+  - Stumps: 0.72 (cricket_object)
+  - Umpire: 0.60 (cricket_object)
+
+Frame 270 (5.4s):
+  - Batter: 0.99 (cricket_object)
+  - Umpire: 0.75 (cricket_object)
+  - (Helmet): 0.50 (cricket_object)
+  - Stumps: 0.78 (cricket_object)
+
+Frame 271 (5.4s):
+  - Umpire: 0.90 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - (Helmet): 0.57 (cricket_object)
+  - Stumps: 0.79 (cricket_object)
+
+Frame 272 (5.4s):
+  - Umpire: 0.90 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - (Helmet): 0.54 (cricket_object)
+  - Stumps: 0.80 (cricket_object)
+  - Non-Striker: 0.38 (cricket_object)
+
+Frame 273 (5.5s):
+  - Umpire: 0.93 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Stumps: 0.76 (cricket_object)
+
+Frame 274 (5.5s):
+  - Umpire: 0.93 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Stumps: 0.79 (cricket_object)
+  - Non-Striker: 0.40 (cricket_object)
+
+Frame 275 (5.5s):
+  - Umpire: 0.89 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - (Helmet): 0.52 (cricket_object)
+  - Stumps: 0.75 (cricket_object)
+  - Non-Striker: 0.45 (cricket_object)
+
+Frame 276 (5.5s):
+  - (Helmet): 0.61 (cricket_object)
+  - Umpire: 0.82 (cricket_object)
+  - Stumps: 0.81 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Non-Striker: 0.38 (cricket_object)
+
+Frame 277 (5.5s):
+  - (Helmet): 0.64 (cricket_object)
+  - Umpire: 0.72 (cricket_object)
+  - Stumps: 0.72 (cricket_object)
+
+Frame 278 (5.6s):
+  - (Helmet): 0.62 (cricket_object)
+  - Stumps: 0.77 (cricket_object)
+  - Umpire: 0.69 (cricket_object)
+
+Frame 279 (5.6s):
+  - (Helmet): 0.64 (cricket_object)
+  - Bowler: 0.88 (cricket_object)
+  - Stumps: 0.74 (cricket_object)
+  - Umpire: 0.50 (cricket_object)
+
+Frame 280 (5.6s):
+  - (Helmet): 0.63 (cricket_object)
+  - Stumps: 0.78 (cricket_object)
+  - Bowler: 0.77 (cricket_object)
+  - Umpire: 0.49 (cricket_object)
+
+Frame 281 (5.6s):
+  - (Helmet): 0.60 (cricket_object)
+  - Stumps: 0.73 (cricket_object)
+  - Bowler: 0.71 (cricket_object)
+  - Non-Striker: 0.44 (cricket_object)
+  - Umpire: 0.37 (cricket_object)
+
+Frame 282 (5.6s):
+  - (Helmet): 0.54 (cricket_object)
+  - Stumps: 0.78 (cricket_object)
+  - Bowler: 0.74 (cricket_object)
+  - Umpire: 0.44 (cricket_object)
+
+Frame 283 (5.7s):
+  - (Helmet): 0.60 (cricket_object)
+  - Stumps: 0.75 (cricket_object)
+
+Frame 284 (5.7s):
+  - (Helmet): 0.67 (cricket_object)
+  - Stumps: 0.75 (cricket_object)
+  - Bowler: 0.64 (cricket_object)
+
+Frame 285 (5.7s):
+  - (Helmet): 0.68 (cricket_object)
+  - Stumps: 0.67 (cricket_object)
+
+Frame 286 (5.7s):
+  - (Helmet): 0.67 (cricket_object)
+  - Bowler: 0.90 (cricket_object)
+  - Stumps: 0.69 (cricket_object)
+
+Frame 287 (5.7s):
+  - (Helmet): 0.66 (cricket_object)
+  - Bowler: 0.81 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+
+Frame 288 (5.8s):
+  - (Helmet): 0.68 (cricket_object)
+  - Bowler: 0.87 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Stumps: 0.66 (cricket_object)
+
+Frame 289 (5.8s):
+  - (Helmet): 0.67 (cricket_object)
+  - Stumps: 0.71 (cricket_object)
+  - Bowler: 0.68 (cricket_object)
+
+Frame 290 (5.8s):
+  - (Helmet): 0.67 (cricket_object)
+  - Stumps: 0.71 (cricket_object)
+  - Non-Striker: 0.51 (cricket_object)
+  - Bowler: 0.63 (cricket_object)
+
+Frame 291 (5.8s):
+  - (Helmet): 0.67 (cricket_object)
+  - Stumps: 0.71 (cricket_object)
+  - Non-Striker: 0.50 (cricket_object)
+
+Frame 292 (5.8s):
+  - (Helmet): 0.67 (cricket_object)
+  - Stumps: 0.72 (cricket_object)
+  - Non-Striker: 0.40 (cricket_object)
+  - Umpire: 0.36 (cricket_object)
+
+Frame 293 (5.9s):
+  - (Helmet): 0.64 (cricket_object)
+  - Stumps: 0.76 (cricket_object)
+  - Umpire: 0.44 (cricket_object)
+  - Non-Striker: 0.33 (cricket_object)
+
+Frame 294 (5.9s):
+  - (Helmet): 0.65 (cricket_object)
+  - Stumps: 0.69 (cricket_object)
+  - Bowler: 0.60 (cricket_object)
+  - Umpire: 0.37 (cricket_object)
+
+Frame 295 (5.9s):
+  - (Helmet): 0.66 (cricket_object)
+  - Bowler: 0.76 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+
+Frame 296 (5.9s):
+  - (Helmet): 0.66 (cricket_object)
+  - Bowler: 0.74 (cricket_object)
+  - Stumps: 0.57 (cricket_object)
+  - Umpire: 0.35 (cricket_object)
+
+Frame 297 (5.9s):
+  - (Helmet): 0.67 (cricket_object)
+  - Bowler: 0.95 (cricket_object)
+  - Stumps: 0.50 (cricket_object)
+  - Umpire: 0.38 (cricket_object)
+
+Frame 298 (6.0s):
+  - (Helmet): 0.68 (cricket_object)
+  - Bowler: 0.80 (cricket_object)
+  - Umpire: 0.60 (cricket_object)
+  - Stumps: 0.63 (cricket_object)
+
+Frame 299 (6.0s):
+  - (Helmet): 0.65 (cricket_object)
+  - Umpire: 0.62 (cricket_object)
+  - Stumps: 0.62 (cricket_object)
+
+Frame 300 (6.0s):
+  - (Helmet): 0.63 (cricket_object)
+  - Stumps: 0.68 (cricket_object)
+  - Umpire: 0.56 (cricket_object)
+
+Frame 301 (6.0s):
+  - (Helmet): 0.51 (cricket_object)
+  - Stumps: 0.66 (cricket_object)
+  - Umpire: 0.48 (cricket_object)
+
+Frame 302 (6.0s):
+  - Stumps: 0.76 (cricket_object)
+  - (Helmet): 0.46 (cricket_object)
+  - Umpire: 0.52 (cricket_object)
+
+Frame 303 (6.1s):
+  - Stumps: 0.75 (cricket_object)
+  - (Helmet): 0.47 (cricket_object)
+  - Bowler: 0.68 (cricket_object)
+  - Umpire: 0.47 (cricket_object)
+
+Frame 304 (6.1s):
+  - (Helmet): 0.55 (cricket_object)
+  - Stumps: 0.76 (cricket_object)
+  - Bowler: 0.82 (cricket_object)
+  - Umpire: 0.50 (cricket_object)
+
+Frame 305 (6.1s):
+  - (Helmet): 0.63 (cricket_object)
+  - Stumps: 0.77 (cricket_object)
+  - Bowler: 0.83 (cricket_object)
+  - Umpire: 0.62 (cricket_object)
+
+Frame 306 (6.1s):
+  - (Helmet): 0.66 (cricket_object)
+  - Umpire: 0.69 (cricket_object)
+  - Stumps: 0.75 (cricket_object)
+  - Bowler: 0.81 (cricket_object)
+  - Non-Striker: 0.40 (cricket_object)
+
+Frame 307 (6.1s):
+  - (Helmet): 0.62 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Umpire: 0.61 (cricket_object)
+  - Stumps: 0.67 (cricket_object)
+  - Bowler: 0.70 (cricket_object)
+
+Frame 308 (6.2s):
+  - (Helmet): 0.60 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Bowler: 0.88 (cricket_object)
+  - Umpire: 0.57 (cricket_object)
+  - Stumps: 0.51 (cricket_object)
+
+Frame 309 (6.2s):
+  - Bowler: 0.99 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - (Helmet): 0.57 (cricket_object)
+  - Umpire: 0.51 (cricket_object)
+  - Stumps: 0.50 (cricket_object)
+  - Non-Striker: 0.37 (cricket_object)
+
+Frame 310 (6.2s):
+  - Bowler: 0.99 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - (Helmet): 0.51 (cricket_object)
+  - Stumps: 0.61 (cricket_object)
+  - Non-Striker: 0.42 (cricket_object)
+  - Umpire: 0.37 (cricket_object)
+
+Frame 311 (6.2s):
+  - Bowler: 0.99 (cricket_object)
+  - (Helmet): 0.61 (cricket_object)
+  - Non-Striker: 0.50 (cricket_object)
+  - Stumps: 0.59 (cricket_object)
+
+Frame 312 (6.2s):
+  - (Helmet): 0.68 (cricket_object)
+  - Bowler: 0.99 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Stumps: 0.64 (cricket_object)
+  - Non-Striker: 0.38 (cricket_object)
+  - Umpire: 0.39 (cricket_object)
+
+Frame 313 (6.3s):
+  - Bowler: 0.99 (cricket_object)
+  - (Helmet): 0.64 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Stumps: 0.52 (cricket_object)
+
+Frame 314 (6.3s):
+  - Bowler: 0.99 (cricket_object)
+  - (Helmet): 0.64 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Umpire: 0.51 (cricket_object)
+  - Non-Striker: 0.43 (cricket_object)
+  - Stumps: 0.47 (cricket_object)
+
+Frame 315 (6.3s):
+  - Bowler: 0.99 (cricket_object)
+  - (Helmet): 0.62 (cricket_object)
+  - Non-Striker: 0.56 (cricket_object)
+  - Stumps: 0.45 (cricket_object)
+
+Frame 316 (6.3s):
+  - (Helmet): 0.66 (cricket_object)
+  - Bowler: 0.99 (cricket_object)
+  - Non-Striker: 0.57 (cricket_object)
+  - Stumps: 0.37 (cricket_object)
+
+Frame 317 (6.3s):
+  - Bowler: 0.99 (cricket_object)
+  - (Helmet): 0.66 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Non-Striker: 0.48 (cricket_object)
+
+Frame 318 (6.4s):
+  - (Helmet): 0.66 (cricket_object)
+  - Bowler: 0.99 (cricket_object)
+  - Non-Striker: 0.59 (cricket_object)
+
+Frame 319 (6.4s):
+  - Bowler: 0.99 (cricket_object)
+  - (Helmet): 0.65 (cricket_object)
+  - Non-Striker: 0.57 (cricket_object)
+
+Frame 320 (6.4s):
+  - (Helmet): 0.66 (cricket_object)
+  - Bowler: 0.99 (cricket_object)
+  - Non-Striker: 0.49 (cricket_object)
+  - Umpire: 0.39 (cricket_object)
+
+Frame 321 (6.4s):
+  - (Helmet): 0.67 (cricket_object)
+  - Bowler: 0.97 (cricket_object)
+  - Non-Striker: 0.46 (cricket_object)
+
+Frame 322 (6.4s):
+  - (Helmet): 0.61 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Bowler: 0.88 (cricket_object)
+
+Frame 323 (6.5s):
+  - (Helmet): 0.64 (cricket_object)
+  - Bowler: 0.80 (cricket_object)
+  - Non-Striker: 0.31 (cricket_object)
+
+Frame 324 (6.5s):
+  - (Helmet): 0.67 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Bowler: 0.81 (cricket_object)
+
+Frame 325 (6.5s):
+  - (Helmet): 0.69 (cricket_object)
+  - Batter: 0.99 (cricket_object)
+  - Bowler: 0.80 (cricket_object)
+

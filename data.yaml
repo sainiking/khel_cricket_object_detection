@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 12
+names: ['Bails', 'Batter', 'Batting Pads', 'Boundary Line', 'Bowler', 'Fielder', 'Helmet', 'Non-Striker', 'Stumps', 'Stumps Mic', 'Umpire', 'Wicket Keeper']
+
+roboflow:
+  workspace: khel
+  project: cricket-equipment-detection-b2g0m
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/khel/cricket-equipment-detection-b2g0m/dataset/1

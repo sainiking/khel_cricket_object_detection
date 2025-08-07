@@ -1,0 +1,9 @@
+# Cricket Object Detection Requirements
+# Install with: pip install -r requirements.txt
+
+ultralytics          # YOLOv8 framework
+scikit-learn         # For train_test_split  
+opencv-python        # For video processing
+PyYAML              # For configuration files
+torch               # PyTorch (for GPU support)
+torchvision         # PyTorch vision utilities
